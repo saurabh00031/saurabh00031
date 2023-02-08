@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **saurabh00031/saurabh00031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
