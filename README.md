@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm SAURABH SANTOSH PATIL </h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
 
 
-- 🌱 I’m currently learning **Java Backend Development**
+
+- 🌱 I’m  **Full Stack Developer**
 
 - 💬 Ask me about **Django,Mern  Stack and GUI**
 
