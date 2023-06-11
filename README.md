@@ -5,7 +5,9 @@
 
 - 🌱 I’m  **Full Stack Developer**
 
-- 💬 Ask me about **Django,Mern  Stack and GUI**
+- 🌱 I'm building the community under the name **RISING LEGENDS**
+
+- 💬 Ask me about **Django,Mern Stack and GUI**
 
 - 📫 How to reach me **patilsaurabh7777777@gmail.com**
 
