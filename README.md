@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Saurabh Santosh Patil</h1>
+<h1 align="center">Hi 👋, I'm SAURABH SANTOSH PATIL </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 💬 Ask me about **Django,Mern Stack and GUI**
+- 💬 Ask me about **Django,Mern  Stack and GUI**
 
 - 📫 How to reach me **patilsaurabh7777777@gmail.com**
 
@@ -28,10 +28,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saurabh00031&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=saurabh00031&icon=0&color=0)](https://visitcount.itsvg.in)
 
