@@ -5,7 +5,7 @@
 
 - 🌱 I’m  **Full Stack Developer**
 
-- 🌱 I'm building the community under the name **RISING LEGENDS**
+- 🌱 I'm building the community under the name **RISING APEXX**
 
 - 💬 Ask me about **Django,Mern Stack and GUI**
 
