@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m  **Full Stack Developer**
+- 🌱 I’m  **Competitive Programmer** and **Full Stack Developer**
 
 - 🌱 I'm building the community under the name **RISING APEXX**
 
-- 💬 Ask me about **Django,Mern Stack and GUI**
+- 💬 Ask me about **Django, Mern Stack, DSA and CP**
 
 - 📫 How to reach me **patilsaurabh7777777@gmail.com**
 
